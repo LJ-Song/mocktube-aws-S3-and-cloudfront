@@ -42,3 +42,7 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 - Used Next JS and react for front end. 
 - Used TailWindCSS and Deployed on Vercel
 
+## Demo
+<img width="1317" alt="MockTube_Demo" src="https://github.com/user-attachments/assets/18f546a8-f1f9-47e3-8a76-d8e0348d9bd8">
+
+
