@@ -14,7 +14,7 @@ export default function Home() {
         <h2 className="mb-3 font-semibold">
           A Musical Day at Newbury Street
         </h2>
-      <video width={400} height={200} controls>
+      <video width={400} height={200} controls controlsList="nodownload">
         <source 
         src="https://d20a5mf2t5y2xm.cloudfront.net/practice_aws-video.MOV" type="video/mp4"
         />
