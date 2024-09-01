@@ -1,4 +1,4 @@
-# practice-aws-with-S3-and-cloudfront
+# MockTube: practice-aws-with-S3-and-cloudfront
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
@@ -40,4 +40,5 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 ## Learning from this project
 - Used S3 to host video and CloudFront for CDN distribution
 - Used Next JS and react for front end. 
+- Used TailWindCSS and Deployed on Vercel
 
